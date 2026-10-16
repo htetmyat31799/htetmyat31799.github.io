@@ -1,5 +1,5 @@
 README.md
-# Hi, I'm Htet Myat Aung 👋
+# Hi, I'm HTET MYAT AUNG 👋
 
 **Data Analyst & Machine Learning Enthusiast**
 I turn raw data into insights and build predictive models that solve real problems.
